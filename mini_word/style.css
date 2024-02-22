@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+}
+
+#editor {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#output {
+    margin-top: 20px;
+}
